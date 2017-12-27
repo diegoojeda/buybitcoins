@@ -1,8 +1,8 @@
 ![Markdown preferences pane](https://www.bitlat.com/blog/wp-content/uploads/2017/10/Bitcoin.png)
 
-#### **Donativos BTC**: 1DfuV4LVeZ2KsqFU98JP337DqNaq2LtWGK 
-#### **Donativos ETH**: 0x6b6a5A128b1d7b1FBC60adBC75d924d110a16E6F
-#### **Donativos LTC**: LMNDQJVdHFnBh7r2BgrzbrV5eKaC5n9M1x
+#### **Donativos BTC**: 18xPnJYbz7Ac2C9PSv8aAwQuzQ3TvN3k5H 
+#### **Donativos ETH**: 0x396e6af786632bfd4b37f9356b3ebf160c1d4f19
+#### **Donativos LTC**: LV2CrFS62eCJMMcmFKxYJ3bThWaW66Uwf4
 
 ## Exchanges Bitcoin
 
@@ -51,13 +51,7 @@ Es el exchange más usado para comprar y vender altcoins. Tiene la mayoría de a
 
 Exchange chino, está ganando mucha popularidad ya que las criptomonedas que va añadiendo suelen tener un rendimiento muy bueno.
 
-> ##### Link: <http://bit.ly/2AYMdEl>
-
-### Bitfinex
-
-Exchange con mucho volumen y con aplicación para Android e iOS.
-
-> ##### Link: <http://bit.ly/2A3UeUY>
+> ##### Link: <http://bit.ly/2BKjT64>
 
 ### Otros exchanges: <https://coinmarketcap.com/exchanges/volume/24-hour/all/>
 
@@ -99,6 +93,8 @@ La biblia de las criptomonedas. Listado con casi todas las criptomonedas que exi
 * **BMC(ENG)**: <https://t.me/joinchat/AAAAAD_aw-EA7WBdPGEQMg>
 * **Tokens chat**: <https://t.me/joinchat/CkG9pUI7PW4YVFD_Ql9K0A>
 * **McleroTV**: <https://t.me/mclerotv>
+* **Bittrex Whale Sniper**: <https://t.me/WhaleSniperBittrex>
+* **Cripto señales**: <https://t.me/criptomonedainversion>
 
 ## Glosario
 

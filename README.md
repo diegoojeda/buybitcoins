@@ -75,6 +75,10 @@ La biblia de las criptomonedas. Listado con casi todas las criptomonedas que exi
 
 > #### Link: <https://coinmarketcap.com>
 
+#### TradingView
+Web con gráficos en tiempo real sobre cotizaciones tanto de criptomonedas como de otros valores. No están listados todos los exchanges pero tiene herramientas para hacer análisis técnicos y se puede usar de forma gratuita
+> #### Link: <https://goo.gl/REJy9F>
+
 #### CoinDesk
 
 > #### Link: <https://www.coindesk.com>

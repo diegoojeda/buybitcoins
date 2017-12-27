@@ -69,6 +69,18 @@ Casa de apuestas que opera con Bitcoin.
 
 In progress...
 
+## ¿Cómo trackeo mis operaciones?
+
+#### Blockfolio
+Es una de las aplicaciones más usadas para registrar nuestras operaciones en criptomonedas, hay que hacerlo de forma manual y el funcionamiento no es del todo intuitivo, pero la actualizan regularmente y tiene bastante proyección de futuro
+> #### iOS: <https://goo.gl/31pq5u>
+> #### Android: <https://goo.gl/jpGaF3>
+
+#### Altpocket
+Ahora mismo únicamente tienen versión web, aunque están trabajando en el desarrollo de las aplicaciones móviles. Se integra con varios exchanges de forma que podemos importar de forma automática nuestras operaciones y actualizarlas regularmente. 
+Como pegas comentar que actualmente no soportan todos los exchanges más conocidos (como por ejemplo Binance). Aun así, el proyecto promete.
+> #### Link: https://altpocket.io/
+
 ## ¿De dónde saco información?
 #### CoinMarketCap
 La biblia de las criptomonedas. Listado con casi todas las criptomonedas que existen, con su cotización e información de los proyectos y en qué exchanges comprarlas.
